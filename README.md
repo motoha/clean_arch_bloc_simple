@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Free Github Flutter Starter Clean Architechture BLOC Starter https://github.com/motoha/clean_arch_bloc_simple
+Example Github Flutter Starter Clean Architechture BLOC Starter https://github.com/motoha/clean_arch_bloc_simple
 
 You don't have to follow clean architecture on every Flutter project. Whether to use clean architecture depends on several factors:
 
